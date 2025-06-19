@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Model files and data
+*.h5
+*.npy
+*.pkl
+
+# Debug and output
+debug_chars/
+debug_*.png
+
+# Other
+.vscode/
